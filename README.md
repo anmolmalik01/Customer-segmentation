@@ -17,14 +17,14 @@ This project aims to perform customer segmentation using clustering techniques t
 
 ## Installation
 
-To run the project, you will need Jupyter Notebook and project depenencies installed.
+To run the project, you will need Jupyter Notebook and project dependencies installed.
 
 Jupyter Notebook installation:
 ```
 pip install notebook
 ```
 
-Dependencides installion:
+Dependencies installation:
 ```
 pip install numpy pandas matplotlib seaborn plotly scikit-learn
 ```
@@ -56,7 +56,7 @@ Possible areas for future work include experimenting with different clustering a
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/anmolmalik01/Customer-segmentation/issues). 
+Contributions, issues, and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/anmolmalik01/Customer-segmentation/issues). 
 
 ## License
 
